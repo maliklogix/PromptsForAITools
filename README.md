@@ -5,13 +5,13 @@
 <h1 align="center">🤖 PromptsForAITools</h1>
 
 <p align="center">
-  <strong>A comprehensive, curated collection of high-quality system prompts & user prompts for 33+ AI tools</strong>
+  <strong>A comprehensive, curated collection of high-quality system prompts & user prompts for 34+ AI tools</strong>
 </p>
 
 <p align="center">
   <a href="#-categories"><img src="https://img.shields.io/badge/Categories-5-blue?style=for-the-badge" alt="Categories" /></a>
-  <a href="#-tools-covered"><img src="https://img.shields.io/badge/AI_Tools-33+-green?style=for-the-badge" alt="Tools" /></a>
-  <a href="#-quality-standards"><img src="https://img.shields.io/badge/Prompts-99+-orange?style=for-the-badge" alt="Prompts" /></a>
+  <a href="#-tools-covered"><img src="https://img.shields.io/badge/AI_Tools-34+-green?style=for-the-badge" alt="Tools" /></a>
+  <a href="#-quality-standards"><img src="https://img.shields.io/badge/Prompts-102+-orange?style=for-the-badge" alt="Prompts" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Open_Source-brightgreen?style=for-the-badge" alt="License" /></a>
 </p>
 
@@ -39,7 +39,7 @@
 | 🎯 **Production-Ready** | Every prompt is detailed, structured, and ready to copy-paste into your AI tool |
 | 📐 **Consistent Structure** | Every tool follows the same 3-file format for easy navigation |
 | 🧠 **Expert-Level Quality** | System prompts are 500+ words with clear roles, rules, and reasoning strategies |
-| 🌍 **Wide Coverage** | 5 categories, 33+ tools, 165+ unique prompt scenarios |
+| 🌍 **Wide Coverage** | 5 categories, 34+ tools, 9,800+ unique prompt scenarios |
 | 🔄 **Actively Maintained** | Continuously updated with new tools, categories, and prompt improvements |
 | 🤝 **Community-Driven** | Open to contributions — add your favorite AI tools and prompts |
 
@@ -70,7 +70,8 @@ PromptsForAITools/
 │   ├── DALL-E_3/
 │   ├── Flux1/
 │   ├── Leonardo_AI/
-│   └── Midjourney/
+│   ├── Midjourney/
+│   └── Nano_Banana/
 │
 ├── 📢 AI_Marketing/             # AI-powered marketing & SEO tools
 │   ├── AdCreative_ai/
@@ -143,6 +144,7 @@ Every tool folder contains **exactly 3 files**, following a consistent, easy-to-
 | **Leonardo AI** | Game assets, consistent characters | Game dev, character design, texture generation |
 | **Adobe Firefly** | Commercial-safe, brand-integrated AI imagery | Enterprise content, stock replacements, brand assets |
 | **Flux1** | High-fidelity, photorealistic generation | Photography-style images, realistic scenes |
+| **Nano Banana Pro** | Hyper-realistic, cinematic image generation (Gemini) | Photorealistic portraits, fashion editorial, product ads, 3D Pixar-style |
 
 ---
 
