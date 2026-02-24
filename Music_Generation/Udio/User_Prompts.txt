@@ -1,0 +1,19 @@
+# User Prompts for Udio
+
+## Prompt 1: 90s Alternative Rock
+"Create a '90s alternative rock song that sounds like it could have been on the Pulp Fiction soundtrack. Gritty electric guitar with heavy distortion and wah pedal, driving bass line, punchy live drums with room reverb, and raw male vocals with a slightly nasal delivery. The lyrics should be about waking up in a city you don't recognize. Key of E minor, tempo 135 BPM. Verse should be restrained and brooding, chorus should explode with energy. Include a noisy guitar solo in the bridge. Production should sound analog — warm, slightly saturated, like it was recorded to tape."
+
+## Prompt 2: Ethereal Dream Pop
+"Generate a dreamy, ethereal shoegaze/dream pop track. Female vocals — airy, layered, and washed in reverb, almost blending into the instrumentation. Walls of shimmering reverbed guitars, slow-motion arpeggiated synths, deep sub-bass, and a minimalist drum machine beat. Tempo: 95 BPM, key of Bb major. The lyrics should be abstract and poetic — impressionistic images of light, water, and memory. Think Cocteau Twins meets Beach House. The production should feel like floating underwater — everything slightly diffused and glowing."
+
+## Prompt 3: Classic Jazz Standards
+"Produce a classic jazz vocal standard in the style of a 1950s Blue Note recording. Female vocals — warm, intimate, with subtle jazz phrasing and natural vibrato. Acoustic piano trio arrangement: piano with rich Fender Rhodes undertones, upright bass with gut strings, and brushed drums on a small kit. Tempo: medium swing at 120 BPM. The song should be about finding peace in solitude on a rainy evening. The recording should sound like a smoky late-night club — close-mic'd vocals, natural room ambience, vintage warmth. Include a piano solo over the B section."
+
+## Prompt 4: Modern Hyperpop Maximalism
+"Create a chaotic, maximalist hyperpop track that pushes every element to 11. Pitch-shifted, auto-tuned vocals (both male and female, switching between them), glitchy stuttering beats, distorted 808s, sickeningly sweet synth melodies layered with abrasive noise textures. Tempo: 160 BPM but the beat should feel constantly shifting. Lyrics about being terminally online and the absurdity of modern internet culture. Think 100 gecs meets SOPHIE. The drops should be physically overwhelming. Include a section where everything cuts out except a pitched-up a cappella before the beat crashes back in."
+
+## Prompt 5: Acoustic Singer-Songwriter
+"Write and produce an intimate acoustic singer-songwriter track about a handwritten letter that was never sent. Female vocals — raw, close-mic'd, slightly breathy with audible emotion. Simple arrangement: nylon-string acoustic guitar playing fingerstyle, subtle cello swells in the chorus, and soft piano notes. Tempo: 85 BPM, key of C major moving to A minor for the chorus. The recording should feel like you're sitting 3 feet away from the performer in a quiet room. No production tricks — just pure emotion and craftsmanship. The final verse should be delivered almost in a whisper."
+
+## Prompt 6: Afrobeats Club Track
+"Produce a high-energy Afrobeats track with a infectious groove. Male vocals with a smooth, melodic flow switching between English and pidgin. Classic Afrobeats percussion — shekere, congas, and programmed drums with that signature Afrobeats bounce. Add tropical synth pads, guitar licks with a clean tone, punchy bass, and horn stabs in the chorus. Tempo: 108 BPM. The song should be about celebrating life and success after a long hustle. Think Burna Boy meets Wizkid. The hook should be undeniable — the kind that makes an entire club move. Include a danceable breakdown section."

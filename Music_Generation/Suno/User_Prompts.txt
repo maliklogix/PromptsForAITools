@@ -1,0 +1,19 @@
+# User Prompts for Suno
+
+## Prompt 1: Cinematic Pop Anthem
+"Create an upbeat, cinematic pop anthem about chasing your dreams against all odds. Male vocals with a powerful, emotional delivery. Start with a soft piano intro, build through electronic beats in the verse, and explode into a massive chorus with layered synths, driving drums, and soaring vocal harmonies. Tempo around 128 BPM, key of D major. The lyrics should be inspirational but not cheesy — think Imagine Dragons meets Coldplay. Include a stripped-down bridge with just vocals and piano before the final chorus hits even harder."
+
+## Prompt 2: Lo-Fi Hip-Hop Study Beat
+"Generate a lo-fi hip-hop instrumental perfect for studying and focus. No vocals. Mellow jazz piano chords with a dusty vinyl crackle effect, soft boom-bap drums with a lazy swing feel, warm bass guitar, and occasional saxophone licks. Tempo: 75-80 BPM. Add subtle rain ambience in the background. The track should feel like a cozy late-night study session in a city apartment. 3 minutes long, loopable, with gentle variations to keep it interesting without being distracting."
+
+## Prompt 3: Dark R&B Track
+"Write and produce a moody, dark R&B song about the complexities of a toxic relationship that you can't leave. Female vocals — breathy, sultry, with occasional raw emotional moments. Minimal production: deep 808 bass, sparse trap hi-hats, dark atmospheric pads, and reverb-drenched guitar arpeggios. Tempo: 68 BPM, key of Eb minor. The verses should be conversational and intimate, the chorus should be hauntingly catchy with layered vocal harmonies. Think The Weeknd meets SZA. Include a spoken-word bridge."
+
+## Prompt 4: Acoustic Folk Storyteller
+"Create a warm acoustic folk song telling the story of a small-town barista who secretly writes novels at night. Male vocals, gentle and storytelling in the style of Noah Kahan or Hozier. Acoustic guitar fingerpicking pattern, subtle upright bass, brushed drums that come in on the chorus, and a touch of harmonica in the bridge. Key of G major, tempo around 100 BPM. The lyrics should be vivid and narrative — paint pictures with words, mention specific details like 'espresso stains on chapter three' and 'the bell above the door.' Three verses, each advancing the story."
+
+## Prompt 5: Epic Orchestral Game Soundtrack
+"Compose an epic orchestral battle theme for a fantasy RPG video game. No vocals — purely instrumental. Full orchestra: sweeping strings, powerful brass fanfares, thundering timpani, war drums, and a heroic French horn melody. Start with a tense, quiet section with tremolo strings and distant war drums building anticipation, then erupt into a full heroic theme at the 45-second mark. Key of C minor transitioning to C major for the heroic section. Include a dramatic pause before the final climactic section. The piece should feel like a decisive battle where the heroes turn the tide. 2-3 minutes long, suitable for looping during gameplay."
+
+## Prompt 6: Latin Reggaeton Club Banger
+"Produce a high-energy reggaeton club track with both Spanish and English lyrics about a summer night out in Miami. Male and female vocals trading verses. Classic dembow rhythm with modern production — heavy 808s, crisp snares, tropical synth stabs, and a catchy perreo breakdown. Tempo: 92 BPM. The chorus should be bilingual with a hook that gets stuck in your head. Add a dancehall-influenced bridge section. Think Bad Bunny meets Rosalía with a touch of Doja Cat. The production should sound massive and club-ready."

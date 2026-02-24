@@ -5,13 +5,13 @@
 <h1 align="center">🤖 PromptsForAITools</h1>
 
 <p align="center">
-  <strong>A comprehensive, curated collection of high-quality system prompts & user prompts for 28+ AI tools</strong>
+  <strong>A comprehensive, curated collection of high-quality system prompts & user prompts for 33+ AI tools</strong>
 </p>
 
 <p align="center">
-  <a href="#-categories"><img src="https://img.shields.io/badge/Categories-4-blue?style=for-the-badge" alt="Categories" /></a>
-  <a href="#-tools-covered"><img src="https://img.shields.io/badge/AI_Tools-28+-green?style=for-the-badge" alt="Tools" /></a>
-  <a href="#-quality-standards"><img src="https://img.shields.io/badge/Prompts-84+-orange?style=for-the-badge" alt="Prompts" /></a>
+  <a href="#-categories"><img src="https://img.shields.io/badge/Categories-5-blue?style=for-the-badge" alt="Categories" /></a>
+  <a href="#-tools-covered"><img src="https://img.shields.io/badge/AI_Tools-33+-green?style=for-the-badge" alt="Tools" /></a>
+  <a href="#-quality-standards"><img src="https://img.shields.io/badge/Prompts-99+-orange?style=for-the-badge" alt="Prompts" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Open_Source-brightgreen?style=for-the-badge" alt="License" /></a>
 </p>
 
@@ -39,7 +39,7 @@
 | 🎯 **Production-Ready** | Every prompt is detailed, structured, and ready to copy-paste into your AI tool |
 | 📐 **Consistent Structure** | Every tool follows the same 3-file format for easy navigation |
 | 🧠 **Expert-Level Quality** | System prompts are 500+ words with clear roles, rules, and reasoning strategies |
-| 🌍 **Wide Coverage** | 4 categories, 28+ tools, 84+ unique prompt scenarios |
+| 🌍 **Wide Coverage** | 5 categories, 33+ tools, 165+ unique prompt scenarios |
 | 🔄 **Actively Maintained** | Continuously updated with new tools, categories, and prompt improvements |
 | 🤝 **Community-Driven** | Open to contributions — add your favorite AI tools and prompts |
 
@@ -85,6 +85,13 @@ PromptsForAITools/
 │   ├── Obviously_AI/
 │   ├── Pandas_AI/
 │   └── Tableau_AI/
+│
+├── 🎵 Music_Generation/           # AI song & music creation tools
+│   ├── AIVA/
+│   ├── Mubert/
+│   ├── Soundraw/
+│   ├── Suno/
+│   └── Udio/
 │
 └── README.md
 ```
@@ -165,6 +172,19 @@ Every tool folder contains **exactly 3 files**, following a consistent, easy-to-
 
 ---
 
+### 🎵 Music Generation
+> AI tools that create songs, soundtracks, and music from text prompts.
+
+| Tool | Specialty | Best For |
+|---|---|---|
+| **Suno** | Full song generation with vocals and lyrics | Complete songs in any genre, vocal tracks, custom lyrics |
+| **Udio** | High-fidelity, genre-accurate music creation | Era-specific production, sub-genre accuracy, audiophile quality |
+| **AIVA** | Cinematic and classical AI composition | Film scores, game soundtracks, orchestral arrangements |
+| **Soundraw** | Customizable royalty-free music for creators | YouTube background music, podcast intros, ad music |
+| **Mubert** | Real-time generative music streams | App integration, adaptive soundtracks, live streaming music |
+
+---
+
 ## 🎯 Quality Standards
 
 Every prompt in this collection is crafted to meet these standards:
@@ -223,11 +243,11 @@ response = openai.ChatCompletion.create(
 
 | Metric | Count |
 |---|---|
-| 📂 Categories | 4 |
-| 🛠️ AI Tools Covered | 28 |
-| 📋 System Prompts | 28 |
-| 💬 User Prompt Scenarios | 140+ |
-| 📄 Total Files | 84+ |
+| 📂 Categories | 5 |
+| 🛠️ AI Tools Covered | 33 |
+| 📋 System Prompts | 33 |
+| 💬 User Prompt Scenarios | 165+ |
+| 📄 Total Files | 99+ |
 
 ---
 
@@ -255,10 +275,10 @@ We welcome contributions! Here's how you can help:
 
 | Category | Example Tools |
 |---|---|
-| 🎵 Audio & Music AI | Suno, Udio, ElevenLabs, Murf |
 | 🎬 Video Generation AI | Runway, Pika, HeyGen, Synthesia |
 | 📝 Writing Assistants | Grammarly, Writesonic, Notion AI |
 | 🔬 Research & Science AI | Elicit, Consensus, Semantic Scholar |
+| 🎤 Voice & Speech AI | ElevenLabs, Murf, Play.ht, Resemble AI |
 
 ---
 
